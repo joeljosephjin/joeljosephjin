@@ -1,11 +1,21 @@
 ### Hi there 👋
 
-![alt text](mi.jpg "Title")
+<img src="mi.jpg" alt="welcome" width="100" align="left" />
 
-Machine Learning Engineer by Profession...
+<div>
 
-Working on Meta Learning, Reinforcement Learning and so on, from time to time...
+🌱 I'm a Machine Learning Engineer by Profession... 🤔
 
+...
+  
+  ...
+  
+...
+  
+🔭 I'm working on Meta Learning, Reinforcement Learning and so on, from time to time... 😄
+
+</div>
+  
 <!--
 **joeljosephjin/joeljosephjin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
