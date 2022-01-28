@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+![alt text](mi.jpg "Title")
 
 Machine Learning Engineer by Profession...
 
