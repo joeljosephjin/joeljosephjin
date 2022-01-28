@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+
+Machine Learning Engineer by Profession...
+
+Working on Meta Learning, Reinforcement Learning and so on, from time to time...
+
 <!--
 **joeljosephjin/joeljosephjin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
