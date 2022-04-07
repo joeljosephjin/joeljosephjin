@@ -4,7 +4,7 @@
 
 <div>
 
-🌱 I'm a Machine Learning Engineer by Profession... 🤔
+🌱 Machine Learning Engineer doing Research... 🤔
 
 ...
   
